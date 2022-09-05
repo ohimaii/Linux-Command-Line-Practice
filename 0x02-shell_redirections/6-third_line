@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "\S" iacta
+grep . iacta
